@@ -34,28 +34,31 @@ Repository dùng để quản lý đồ án ASP.NET.
     * Xây dựng trang Chi tiết sản phẩm (`Home/Details.cshtml`) hiển thị đầy đủ thông tin mô tả chi tiết, giá bán và hình ảnh lớn của từng loại trà sữa.
     * Liên kết sự kiện cho hệ thống nút bấm "Đặt hàng ngay" trên Banner và nút "Thêm món" tại các thẻ sản phẩm ở Trang chủ.
 * Đồng bộ phiên bản và đẩy toàn bộ mã nguồn chức năng giỏ hàng lên hệ thống GitHub.
-**Tuần 4 (19/07/2026 - 26/07/2026)**
-   Hoàn thiện và kiểm tra toàn bộ chức năng website bán trà sữa MON.
-Kiểm tra các chức năng quản lý danh mục và sản phẩm.
-Kiểm tra hiển thị sản phẩm, thông tin chi tiết sản phẩm.
-Kiểm tra chức năng thêm sản phẩm vào giỏ hàng, cập nhật số lượng và xóa sản phẩm.
-Hoàn thiện giao diện người dùng (Front-end).
-Thiết kế và chỉnh sửa giao diện trang chủ.
-Hoàn thiện Banner giới thiệu, danh sách sản phẩm nổi bật.
-Xây dựng Footer chứa thông tin liên hệ, danh mục menu và dịch vụ.
-Cải thiện bố cục, màu sắc, khả năng hiển thị trên trình duyệt.
-Kiểm thử và sửa lỗi hệ thống.
-Kiểm tra lỗi điều hướng giữa các trang.
-Kiểm tra tính ổn định của các Controller, View và Model.
-Sửa lỗi giao diện và tối ưu mã nguồn.
-Hoàn thiện báo cáo đồ án.
-Chụp màn hình các chức năng chính của website.
-Bổ sung sơ đồ Use Case, mô hình hệ thống.
-Viết nội dung các chương báo cáo:
-Chương 3: Phân tích và thiết kế hệ thống.
-Chương 4: Cài đặt và triển khai.
-Chương 5: Kết quả và đánh giá.
-Đóng gói và hoàn thành sản phẩm.
-Kiểm tra lại toàn bộ mã nguồn.
-Đồng bộ phiên bản cuối cùng lên GitHub.
-Chuẩn bị file báo cáo và sản phẩm để nộp.
+## Tuần 4 (19/07/2026 - 26/07/2026)
+
+- Hoàn thiện và kiểm tra toàn bộ chức năng website bán trà sữa MON.
+  - Kiểm tra chức năng quản lý danh mục và sản phẩm.
+  - Kiểm tra hiển thị sản phẩm và thông tin chi tiết sản phẩm.
+  - Kiểm tra chức năng giỏ hàng: thêm món, cập nhật số lượng, xóa sản phẩm.
+
+- Hoàn thiện giao diện website.
+  - Chỉnh sửa giao diện trang chủ.
+  - Hoàn thiện Banner, sản phẩm nổi bật và Footer.
+  - Cải thiện bố cục và giao diện người dùng.
+
+- Kiểm thử và sửa lỗi hệ thống.
+  - Kiểm tra điều hướng giữa các trang.
+  - Sửa lỗi giao diện và tối ưu mã nguồn.
+  - Chụp màn hình các chức năng chính của website.
+  - Bổ sung sơ đồ Use Case, mô hình hệ thống.
+  - Viết nội dung các chương báo cáo:
+  - Chương 3: Phân tích và thiết kế hệ thống.
+  - Chương 4: Cài đặt và triển khai.
+  - Chương 5: Kết quả và đánh giá.
+
+- Hoàn thiện báo cáo đồ án.
+  - Bổ sung sơ đồ Use Case.
+  - Chụp màn hình chức năng website.
+  - Hoàn thiện nội dung báo cáo.
+
+- Đóng gói sản phẩm và cập nhật phiên bản cuối lên GitHub.

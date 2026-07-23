@@ -1,0 +1,75 @@
+﻿@model List<TrasuaMON.Controllers.CartItem>
+
+@{
+    ViewData["Title"] = "Giỏ Hàng Của Bạn";
+}
+
+<div class="container my-5">
+    <h2 class="fw-bold mb-4 text-dark text-uppercase">🛒 GIỎ HÀNG CỦA BẠN</h2>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="row g-4">
+            <div class="col-lg-8">
+                <div class="table-responsive bg-white p-3 rounded-4 shadow-sm" style="border: 1px solid #f1f1f1;">
+                    <table class="table table-borderless align-middle mb-0">
+                        <thead class="border-bottom border-light">
+                            <tr class="text-secondary fw-semibold">
+                                <th scope="col">Món</th>
+                                <th scope="col" class="text-center">Số lượng</th>
+                                <th scope="col" class="text-end">Đơn giá</th>
+                                <th scope="col" class="text-end">Tổng</th>
+                                <th scope="col" class="text-center">Xóa</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        <div class="d-flex align-items-center">
+                                            <img src="@item.Product.ImageUrl" class="rounded me-3 bg-light p-1" style="width: 60px; height: 60px; object-fit: contain;" />
+                                            <div>
+                                                <h6 class="fw-bold mb-0 text-dark">@item.Product.Name</h6>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td class="text-center fw-bold">@item.Quantity</td>
+                                    <td class="text-end text-muted">@string.Format("{0:N0}", item.Product.Price)đ</td>
+                                    <td class="text-end fw-bold text-dark">@string.Format("{0:N0}", item.Product.Price * item.Quantity)đ</td>
+                                    <td class="text-center">
+                                        <a href="/Cart/RemoveItem?productId=@item.Product.Id" class="text-danger border-0 bg-transparent fs-5 text-decoration-none">❌</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="bg-white p-4 rounded-4 shadow-sm border border-light">
+                    <h5 class="fw-bold text-dark mb-4">TỔNG ĐƠN HÀNG</h5>
+                    <div class="d-flex justify-content-between mb-3 fs-5">
+                        <span class="text-muted">Tạm tính:</span>
+                        <span class="fw-bold text-danger">@string.Format("{0:N0}", ViewBag.Total)đ</span>
+                    </div>
+                    <p class="text-muted small mb-4">* Phí vận chuyển sẽ được tính toán dựa trên địa chỉ giao hàng.</p>
+                    <button class="btn btn-success btn-lg w-100 fw-bold shadow rounded-pill py-3">
+                        🚀 TIẾN HÀNH ĐẶT HÀNG
+                    </button>
+                    <a href="/#menu" class="btn btn-outline-warning w-100 rounded-pill mt-3 fw-bold">TIẾP TỤC MUA MÓN</a>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="text-center py-5 bg-white rounded-4 shadow-sm" style="border: 1px solid #f1f1f1;">
+            <div class="fs-1 mb-3">🛒</div>
+            <h4 class="text-muted">Giỏ hàng của bạn đang trống trơn!</h4>
+            <p class="text-secondary">Hãy quay lại trang chủ chọn vài ly trà sữa ngon béo ngấy nhé.</p>
+            <a href="/#menu" class="btn btn-warning fw-bold px-4 rounded-pill mt-2">XEM MENU NGAY</a>
+        </div>
+    }
+</div>

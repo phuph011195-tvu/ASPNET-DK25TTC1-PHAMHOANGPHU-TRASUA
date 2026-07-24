@@ -5,6 +5,7 @@ wwwroot\images\2.jpg
 wwwroot\images\3.jpg
 wwwroot\images\321.jpg
 wwwroot\images\abc.png
+wwwroot\images\background.png
 wwwroot\images\chocolate.png
 wwwroot\images\trasua_matcha.png
 wwwroot\images\truyenthong.avif

@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\migrations\\20260705134257_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:migrations\\20260705134257_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|c:\\users\\phu\\onedrive\\documents\\github\\aspnet-dk25ttc1-phamhoangphu-trasua\\src\\trasuamon\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145EC90B-7FEB-9A65-6275-568847F4EC38}|TrasuaMON.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,135 +67,147 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-23T15:28:11.824Z",
+              "WhenOpened": "2026-07-24T16:11:54.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T15:26:54.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T15:26:53.815Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T15:26:52.838Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T16:11:33.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20260705134257_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Migrations\\20260705134257_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260705134257_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Migrations\\20260705134257_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260705134257_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T15:25:38.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T15:23:13.697Z"
+              "WhenOpened": "2026-07-24T16:09:16.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-07-23T15:21:42.311Z"
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T15:59:53.28Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-07-23T15:18:45.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T15:17:36.407Z"
+              "WhenOpened": "2026-07-24T15:55:40.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T15:51:54.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T15:49:49.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartController.cs",
               "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Controllers\\CartController.cs",
               "RelativeToolTip": "Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T15:17:23.256Z"
+              "WhenOpened": "2026-07-24T15:56:09.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAMB9wBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:50:09.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T15:17:34.875Z"
+              "WhenOpened": "2026-07-24T15:51:42.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:44:41.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PHU\\OneDrive\\Documents\\GitHub\\ASPNET-DK25TTC1-PHAMHOANGPHU-TRASUA\\src\\TrasuaMON\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:44:29.038Z"
             }
           ]
         }

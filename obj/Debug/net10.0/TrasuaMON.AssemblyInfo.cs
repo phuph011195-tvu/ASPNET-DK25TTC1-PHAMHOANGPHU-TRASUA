@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrasuaMON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d842fedc395e15dd1a1c2d029a6cdd85edfa8ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c6d45b9f8ef3bd0536287c4f7e9ac9b656b0cea")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrasuaMON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrasuaMON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
